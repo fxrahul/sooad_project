@@ -1,5 +1,5 @@
 <?php
-//SE Experiment no 8
+//SE Experiment 
 require 'connect.inc.php';
 ob_start();
 session_start();
